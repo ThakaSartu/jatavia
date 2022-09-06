@@ -1,5 +1,6 @@
 <IMG src="https://pbs.twimg.com/media/ExrmpSyWUAMCQBj.jpg">
 <IMG src="https://i.discogs.com/hYY9APOi1anJK21D3N7CsLqzfD-KkM1BYWyrPi1HQZc/rs:fit/g:sm/q:90/h:502/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5MDA5/NjQtMTU0OTA5Mjg4/Mi01MjYxLmpwZWc.jpeg">
+<hr>
 ---
 layout: default
 ---
